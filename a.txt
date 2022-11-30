@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 huhu patrick war da
+=======
+Dies ist der erste Satz in a.txt
+Nach dem ersten add
+>>>>>>> 5fedbe50abc0b25297bdf72cdd07ce93f3598e9b
