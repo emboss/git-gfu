@@ -1,1 +1,3 @@
 Versuch einer neuen Zeile für a.txt
+Dies ist der erste Satz in a.txt
+Nach dem ersten add
