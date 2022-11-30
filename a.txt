@@ -1,9 +1,10 @@
+KONFLIKTMein input, - jan
 Branch von Markus.
 Mein input, - jan
 huhu patrick war da
 Versuch einer neuen Zeile für a.txt
 Dies ist der sinnvolle input von Markus.
-Dies ist der zweite Satz in a.txt
+Dies ist der zwesdfsdfdfite Satz in a.txt
 Nach dem ersten add
 
 Bug gefixt.
