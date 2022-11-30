@@ -1,0 +1,6 @@
+passwords
+config
+
+*.so
+*.dll
+*.exe
