@@ -1,0 +1,2 @@
+Dies ist der erste Satz in a.txt
+Nach dem ersten add
