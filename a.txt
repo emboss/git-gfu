@@ -1,5 +1,7 @@
-KONFLIKTMein input, - jan
+KONFLIKT
+Mein input, - jan
 Branch von Markus.
+Neue erste Zeile Martin
 Mein input, - jan
 huhu patrick war da
 Versuch einer neuen Zeile für a.txt
