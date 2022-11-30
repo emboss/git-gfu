@@ -5,3 +5,4 @@ Dies ist der sinnvolle input von Markus.
 Dies ist der zweite Satz in a.txt
 Nach dem ersten add
 
+Bug gefixt.
